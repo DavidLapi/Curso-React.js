@@ -6,5 +6,6 @@
 
 <p>Link <a href="https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk">aquí</a> para la lista de reproducciones.</p>
 <p>Artículo de Jonathan Mircha: <a href="https://jonmircha.com/react">Jonmircha React.js</a></p>
+<p>Aprende JavaScript: <a href="https://aprendejavascript.org/">aprendejavascript.org</a></p>
 
 <h2>Video 1: Introducción</h2>
