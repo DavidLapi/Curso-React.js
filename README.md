@@ -9,3 +9,5 @@
 <p>Aprende JavaScript: <a href="https://aprendejavascript.org/">aprendejavascript.org</a></p>
 
 <h2>Video 1: Introducción</h2>
+
+<p>Crear una aplicación app --> <a href="https://react.dev/learn/creating-a-react-app">creating a react app</a></p>
